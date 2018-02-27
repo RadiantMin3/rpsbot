@@ -9,11 +9,21 @@ Discord bot that plays rock paper scissors kirby candy and gives you points afte
 ## How to Play
 
 Commands:
+
 !rock - Throw rock
+
 !paper - Throw paper
+
 !scissors - Throw scissors
+
 !kirby - Throw kirby
+
 !candy - Throw candy
+
 !points - Check points/wins
+
+Normal RPS rules apply to rock, paper, scissors. 
+
+Here's the twist though: Kirby loses to rock, paper, and scissors. Candy beats rock, paper, and scissors. BUT Kirby (b)eats candy. Got it?
 
 
