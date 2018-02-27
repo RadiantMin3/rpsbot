@@ -27,3 +27,6 @@ Normal RPS rules apply to rock, paper, and scissors.
 Here's the twist though: Kirby loses to rock, paper, and scissors. Candy beats rock, paper, and scissors. BUT Kirby (b)eats candy. Got it?
 
 
+
+
+**P.S. If you actually want to run the code you need to have an envinornment that runs latest version of node and also install the sqlite and discord.js modules. Oh you also need a configuration token in a json file called config.json but you will have to generate that yourself.**
