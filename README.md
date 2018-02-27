@@ -22,7 +22,7 @@ Commands:
 
 !points - Check points/wins
 
-Normal RPS rules apply to rock, paper, scissors. 
+Normal RPS rules apply to rock, paper, and scissors. 
 
 Here's the twist though: Kirby loses to rock, paper, and scissors. Candy beats rock, paper, and scissors. BUT Kirby (b)eats candy. Got it?
 
