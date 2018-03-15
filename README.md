@@ -29,4 +29,4 @@ Here's the twist though: Kirby loses to rock, paper, and scissors. Candy beats r
 
 
 
-**P.S. If you actually want to run the code you need to have an envinornment that runs latest version of node and also install the sqlite and discord.js modules. Oh you also need a configuration token in a json file called config.json but you will have to generate that yourself.**
+**P.S. If you actually want to run the code you need to have an envinornment that runs the latest version of node and also install the sqlite and discord.js modules. You also need a configuration token in a json file called config.json but you will have to generate that yourself by going to the developer section of discord.**
