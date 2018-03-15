@@ -18,7 +18,7 @@ Commands:
 
 !kirby - Throw kirby
 
-!candy - Throw candy
+!jolly - Throw candy
 
 !points - Check points/wins
 
